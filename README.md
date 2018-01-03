@@ -12,7 +12,7 @@ to be seen in AnalogReadSerialMatplotlib.py
 
 2) Install libraries 
   a) # apt-get install python-matplotlib.
-  c) # pip install pynguino.
+  b) # pip install pynguino.
   
 3) Load the .pde in the Pinguino pic, CDC_8bit.pde from Yeison Cardona, https://bitbucket.org/yeisoneng/pynguino-2.0/raw/tip/pinguino/CDC/cdc_8bit.pde.
 
@@ -24,5 +24,5 @@ to be seen in AnalogReadSerialMatplotlib.py
 # How to Start the Example?
  1) Pinguino board pic18f4550 connected via usb to pc.
  2) Open the terminal.
- 3) Placed in the folder where your AnalogReadSerialMatplotlib.py file is located. execute $ cd /home/usuario/Descargas.
+ 3) Placed in the folder where your AnalogReadSerialMatplotlib.py file is located. execute $ cd /home/usuario/folder where is your file.
  4) As administrator execute # python AnalogReadSerialMatplotlib.py and will open the sale with the real-time graph.
