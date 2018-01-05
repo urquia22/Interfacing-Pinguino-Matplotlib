@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """/*	---------------------------------------------------------------------
-	Pinguino example to graph analog signal read on pin 13 of the penguin 
+	Pinguino example to graph analog signal read on pin 13 of the pinguino
 	with the matplotlib library through serial communication using the 
 	pynguino communication library and CDC_8bit.pde from yeison cardona 
 	to be seen in AnalogReadSerialMatplotlib.py
