@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """/*	---------------------------------------------------------------------
 	Pinguino example to graph analog signal read on pin 13 of the pinguino
