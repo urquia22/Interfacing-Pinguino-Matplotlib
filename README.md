@@ -13,6 +13,7 @@ to be seen in AnalogReadSerialMatplotlib.py
 2) Install libraries 
   a) # apt-get install python-matplotlib.
   b) # pip install pynguino.
+  c) # pip install numpy.
   
 3) Load the .pde in the Pinguino pic, CDC_8bit.pde from Yeison Cardona, https://bitbucket.org/yeisoneng/pynguino-2.0/raw/tip/pinguino/CDC/cdc_8bit.pde.
 
